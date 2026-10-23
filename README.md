@@ -1,3 +1,4 @@
+
 # ¡Hola! 👋 Soy Anderson Reyes
 
 **Desarrollador de Software en Formación | Frontend Junior**
@@ -37,7 +38,8 @@ Estudiante de segundo año de Ingeniería en Desarrollo de Software en la Univer
 ---
 
 ###  Estadísticas de GitHub
-<!-- Tarjetas dinámicas que se actualizan solas con tu actividad -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ez3xd&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de Ez3xd" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ez3xd&theme=windows-dark&locale=es)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ez3xd&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Ez3xd&langs_count=4&hide_values=true&theme=dark_github)
+
+
