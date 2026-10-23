@@ -40,6 +40,6 @@ Estudiante de segundo año de Ingeniería en Desarrollo de Software en la Univer
 ###  Estadísticas de GitHub
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ez3xd&theme=windows-dark&locale=es)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ez3xd&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Ez3xd&langs_count=4&hide_values=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ez3xd&layout=compact&langs_count=6&hide_values=true&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=Ez3xd&layout=compact&langs_count=6&hide_values=true&theme=great-gatsby)
 
 
