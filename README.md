@@ -1,14 +1,14 @@
 
 # ¡Hola! 👋 Soy Anderson Reyes
 
-**Desarrollador de Software en Formación | Frontend Junior**
+**Futuro Desarrollador de Software en Formación | full stack developer**
 
 Estudiante de segundo año de Ingeniería en Desarrollo de Software en la Universidad de Oriente (UNIVO). Soy un desarrollador autodidacta y apasionado por la lógica de programación, enfocado en construir interfaces limpias y eficientes. Me adapto rápidamente a nuevas herramientas y disfruto resolver problemas complejos a través del código.
 
 ---
 
 ###  Sobre mí
-- 💻 Actualmente enfocando mi aprendizaje en el ecosistema **JavaScript / TypeScript** y el desarrollo **Frontend**.
+- 💻 Actualmente enfocando mi aprendizaje en el ecosistema **JavaScript / TypeScript** y el desarrollo **full stack developer**.
 - 🎓 Becario académico con una sólida base en principios de diseño de software y programación orientada a objetos.
 - ⚙️ Experiencia construyendo desde servidores HTTP básicos y APIs REST, hasta bots de automatización interactiva.
 - 📫 Puedes contactarme en: **[andersonezequiel.reyes@gmail.com](mailto:andersonezequiel.reyes@gmail.com)**
